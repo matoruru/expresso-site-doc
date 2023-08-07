@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclassic=self.webpackChunkclassic||[]).push([[852],{1939:e=>{e.exports=JSON.parse('{"title":"CLI","description":"ExpressoTS CLI Tool.","slug":"/category/cli","permalink":"/docs/category/cli","navigation":{"previous":{"title":"Prisma provider","permalink":"/docs/providers/prisma"},"next":{"title":"Overview","permalink":"/docs/cli/overview"}}}')}}]);
